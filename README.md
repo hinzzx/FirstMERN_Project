@@ -1,8 +1,3 @@
 # FirstMERN_Project
-My very first back-end &amp; front-end beginner app.
+## My very first FullStack project.
 
-Following a guide, 
-
-```
-I just created my first Full Stack Beginner project.
-```
